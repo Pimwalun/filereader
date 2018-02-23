@@ -1,7 +1,4 @@
-#ignore java output
-*.class
-bin/
-.settings/
+/.settings
+/bin
 .classpath
 .project
-.DS_Store
