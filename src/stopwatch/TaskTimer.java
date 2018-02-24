@@ -1,5 +1,10 @@
 package stopwatch;
 
+/**
+ * Runs a task using a Stopwatch and prints the elapsed time.
+ * @author Pimwalun Wtichawanitchanun
+ * 
+ */
 public class TaskTimer {
 	
 	/**
